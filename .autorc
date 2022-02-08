@@ -3,7 +3,5 @@
     "git-tag"
   ],
   "owner": "https://github.com/anoop-gupt/release-cli",
-  "repo": "https://github.com/anoop-gupt/release-cli",
-  "name": "Anoop",
-  "email": ""
+  "repo": "https://github.com/anoop-gupt/release-cli"
 }
