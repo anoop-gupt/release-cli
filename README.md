@@ -14,3 +14,7 @@ https://github.com/release-it/release-it
 https://gist.github.com/rponte/fdc0724dd984088606b0
 
 https://github.com/tprakash17/jira-release-management/blob/master/jira-fix-version-update-btw-tags.sh
+
+https://www.darraghoriordan.com/2020/07/12/semantic-version-node-azure-devops/
+
+https://medium.com/@andras.csanyi/azure-devops-semantic-release-sonar-and-nuget-publish-a62d70ef8914
