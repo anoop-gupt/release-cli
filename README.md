@@ -10,3 +10,5 @@ git describe --abbrev=0
 # Ref
 https://www.atlassian.com/blog/jira-software/jira-release-management-steps
 https://github.com/release-it/release-it
+
+https://gist.github.com/rponte/fdc0724dd984088606b0
