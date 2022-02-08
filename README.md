@@ -12,3 +12,5 @@ https://www.atlassian.com/blog/jira-software/jira-release-management-steps
 https://github.com/release-it/release-it
 
 https://gist.github.com/rponte/fdc0724dd984088606b0
+
+https://github.com/tprakash17/jira-release-management/blob/master/jira-fix-version-update-btw-tags.sh
