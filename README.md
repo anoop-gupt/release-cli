@@ -18,3 +18,5 @@ https://github.com/tprakash17/jira-release-management/blob/master/jira-fix-versi
 https://www.darraghoriordan.com/2020/07/12/semantic-version-node-azure-devops/
 
 https://medium.com/@andras.csanyi/azure-devops-semantic-release-sonar-and-nuget-publish-a62d70ef8914
+
+https://www.moderndata.ai/2021/10/automatic-semantic-versioning-in-azure-devops-with-release-notes/
