@@ -22,3 +22,4 @@ https://medium.com/@andras.csanyi/azure-devops-semantic-release-sonar-and-nuget-
 https://www.moderndata.ai/2021/10/automatic-semantic-versioning-in-azure-devops-with-release-notes/
 
 https://raaviblog.com/automatic-semantic-versioning-using-gitversion-azure-devops-pipeline-and-merge-no-ff-pullrequest-merge-type/
+https://blog.danskingdom.com/Custom-version-numbers-in-Azure-DevOps-yaml-pipelines/
